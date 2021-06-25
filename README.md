@@ -19,6 +19,13 @@ You will be able to view the website on a desktop web browser once it is deploye
 
 Desktop Screen:
 ![Password Generator](./Assets/password-generator-image.png)
+![Password Generator](./Assets/1.png)
+![Password Generator](./Assets/2.png)
+![Password Generator](./Assets/3.png)
+![Password Generator](./Assets/4.png)
+![Password Generator](./Assets/5.png)
+![Password Generator](./Assets/6.png)
+![Password Generator](./Assets/7.png)
 
 ## Credits
 
