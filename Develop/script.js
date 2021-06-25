@@ -46,12 +46,12 @@ function generatePassword() {
     passwordchar = passwordchar.concat(specialChar);
   }
 
-  var randomPassword = "";
+  var newPassword = "";
 
   for (var i = 0; i < userLength; i++) {
-    randomPassword = randomPassword + passwordchar[Math.floor(Math.random() * passwordchar.length)];
+    newPassword = newPassword + passwordchar[Math.floor(Math.random() * passwordchar.length)];
   }
-  return randomPassword;
+  return newPassword;
 }
 
 // Write password to the #password input
